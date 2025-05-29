@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+.link-header {
+text-decoration: none;
+}
+h1 {
+text-align: center;
+}
+
+
+
+
+H1 {
+border: solid gray 3px;
+width: max-content;
+text-align: center;
+}
